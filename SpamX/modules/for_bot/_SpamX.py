@@ -1,4 +1,4 @@
-""" RiZoeLX 2022 © SpamX """
+""" JORDEN 2022 © SpamX """
 
 import os, sys, io
 from io import StringIO
