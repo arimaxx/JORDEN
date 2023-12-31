@@ -1,5 +1,5 @@
 """
-   © RiZoeLX 
+   © ARI
    SpamX - Telegram Bots
 """
 
