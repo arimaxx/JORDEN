@@ -47,7 +47,7 @@ async def SpamX_(SpamX: Client, message: Message):
     Mai = await SpamX.get_me()
     chat = message.chat
     info = await message.reply_text("ᴘʀᴏᴄᴇꜱꜱɪɴɢ......")
-    spamx_reply = "**__SpamX by RiZoeLX;__** \n\n"
+    spamx_reply = "**__ᴊᴏʀᴅᴇɴ ʙʏ ᴀʀɪxᴏᴘ....;__** \n\n"
     spamx_reply += "<=======================> \n"
 
     try:
@@ -99,15 +99,15 @@ async def SpamX_(SpamX: Client, message: Message):
     if user.id in Devs:
        spamx_reply += f"**Rank:** Dev of SpamX \n"
     elif user.id == Owner or user.id == Mai.id:
-       spamx_reply += f"**Rank:** Owner 🔱 \n"
+       spamx_reply += f"**Rank:** FATHER 🔱 \n"
     else:
-       spamx_reply += f"**Rank** Sudo ⚜️\n\n"
+       spamx_reply += f"**Rank** dost hai bhai ka ⚜️\n\n"
     if DATABASE_URL:
        spamx_reply += f"**Total Sudos:** `{users_db.sudo_count()}` \n"
        spamx_reply += f"**Total Gbanned users:** `{gban_db.gban_count()}` \n"
     spamx_reply += "<=======================> \n\n"
-    spamx_reply += "**Source Code:** [GitHub 🐈‍⬛](https://github.com/RiZoeLX/SpamX) \n\n"
-    spamx_reply += "**© @RiZoeLX** || Support: @DNHxHELL"
+    spamx_reply += "**Source Code:** [GitHub 🐈‍⬛](https://t.me/ll_about_ari_ll) \n\n"
+    spamx_reply += "**© @lll_notookk_lll** || Support: @ll_about_ari_ll"
     
     try:
        await info.edit_text(spamx_reply, disable_web_page_preview=True)
