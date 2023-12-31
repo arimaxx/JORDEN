@@ -1,5 +1,5 @@
-# RiZoeL X - Telegram Projects
-# (c) 2022 - 2023 RiZoeL
+# JORDEN - Telegram Projects
+# (c) 2022 - 2023 ARI
 
 import os, sys, asyncio
 from random import choice
