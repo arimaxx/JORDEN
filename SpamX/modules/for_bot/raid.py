@@ -44,11 +44,11 @@ async def raid(SpamX: Client, e: Message):
         return
 
       if int(user.id) == Owner:
-         await e.reply_text("This guy is Owner Of these Bots.")
+         await e.reply_text("yea insan ARI hai bot ka malik hai.")
          return
       if int(user.id) in Sudos:
          if e.from_user.id != Owner:
-           await e.reply_text("This guy is a sudo users.")
+           await e.reply_text("yea insan ARI ka dost hai.")
            return
 
       await start_raid(SpamX, e, counts, user)
