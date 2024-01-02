@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="resources/RiZoeLX.png" alt="RiZoeLXSpam Logo">
+  <img src="https://graph.org/file/1d80c38ce328695547203.jpg" alt="RiZoeLXSpam Logo">
 </p>
 <h6 align="center">
   <b>• JORDEN Bʏ ARI •</b>
