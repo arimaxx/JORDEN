@@ -91,6 +91,3 @@ pkg install python wget -y && pip install pyrogram  && pip install tgcrypto&& wg
 SpamX is licensed under [GNU Affero General Public License](https://www.gnu.org/licenses/gplv3-or-later.pngl) v3 or later.
 
 <h3>Credits</h3>
-
-  - <b> [RiZoeL](https://github.com/MrRizoel) : Dev/creator of SpamX </b> 
-  - <b> [Pyrogram](https://github.com/pyrogram/pyrogram) : Python Library used in SpamX
